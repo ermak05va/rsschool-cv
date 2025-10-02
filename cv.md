@@ -11,7 +11,7 @@
 I want to develop in the field of frontend development because it is important for me to be able to work remotely, have clear tasks, and build a career that will provide a stable income.
 
 __Soft skills:__
-* diligence
+* diligenceS
 * attention to detail
 * ability to analyze information
 * mathematical mind
@@ -26,7 +26,7 @@ Right now, my goal is to master the basic technologies (HTML, CSS, JavaScript), 
 * CSS
 * JavaScript
 * Git - GitHub
-* Figma, Photoshop
+* Figma, Photoshop, video editing, ai video
 
 ## Code examples: ##
 ``` 

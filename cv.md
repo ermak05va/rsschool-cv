@@ -5,7 +5,7 @@
 * Email: ermaxov.00@gmail.com
 * GitHub: [yarra](https://github.com/Ermak05va)
 * Tg: [@main_iris](https://t.me/main_iris)
-* Discord: [___yara](https://discord.com/channels/____yara)
+* Discord: [___yara](https://discord.com/users/772794235053015090)
 
 ## About me: ##
 I want to develop in the field of frontend development because it is important for me to be able to work remotely, have clear tasks, and build a career that will provide a stable income.

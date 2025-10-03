@@ -1,1 +1,3 @@
-[Rsschool-cv](https://ermak05va.github.io/rsschool-cv/cv)
+# CV
+
+[My CV on GitHub Pages](https://ermak05va.github.io/rsschool-cv/)
